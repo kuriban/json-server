@@ -1,7 +1,6 @@
 {
-  "result": [
-    "123",
-    "345",
-    "456"
-  ]
+  "versionName":"999.0.0",
+  "versionCode": "998",
+  "apkUrl":"https://www.briandunning.com/sample-data/au-500.zip",
+  "forceUpdate": false
 }
